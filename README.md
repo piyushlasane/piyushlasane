@@ -18,9 +18,7 @@
 
 # 🌐 Connect with me:
 
-<a href="mailto:piyushlasane@gmail.com">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" width="40" />
-</a>
+
 <a href="https://linkedin.com/in/piyushlasane" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
@@ -29,6 +27,9 @@
 </a>
 <a href="https://www.geeksforgeeks.org/user/piyush_lasane" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+</a>
+<a href="mailto:piyushlasane@gmail.com">
+  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" width="40" />
 </a>
 
 # 📊 GitHub Stats:
