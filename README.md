@@ -19,7 +19,7 @@
 # 🌐 Connect with me:
 
 <a href="mailto:piyushlasane@gmail.com">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/64px-Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/64px-Gmail_Icon.png" alt="Gmail" height="40" width="40" />
 </a>
 <a href="https://linkedin.com/in/piyushlasane" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
