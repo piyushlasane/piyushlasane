@@ -29,7 +29,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
 <a href="mailto:piyushlasane@gmail.com">
-  <img src="(https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)" alt="mail" width="40" height="40"/>
+  <img src="https://photos.app.goo.gl/X3Re7HDq4PTre4h56" alt="mail" width="40" height="40"/>
 </a>
 
 # 📊 GitHub Stats:
