@@ -28,6 +28,9 @@
 <a href="https://www.geeksforgeeks.org/user/piyush_lasane" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
+<a href="mailto:piyushlasane@gmail.com">
+  <img src="(https://photos.fife.usercontent.google.com/pw/AP1GczOsHuhAic4veZ5ygsya6kn_5nJ9GQbt9yiBC9h8S2ZmNhpYgdoCK0Qr=w512-h512-s-no-gm?authuser=0)" alt="mail" width="40" height="40"/>
+</a>
 
 # 📊 GitHub Stats:
 
