@@ -29,7 +29,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
 <a href="mailto:piyushlasane@gmail.com">
-  <img src="https://sco.wikipedia.org/wiki/Gmail#/media/File:Gmail_icon_(2020).svg" alt="mail" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="mail" width="40" height="40"/>
 </a>
 
 # 📊 GitHub Stats:
