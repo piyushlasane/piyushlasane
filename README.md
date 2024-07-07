@@ -1,9 +1,6 @@
 # 💻 Programming Languages:
 
 <a href="mailto:piyushlasane@gmail.com">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="mailto:piyushlasane@gmail.com">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
 <a href="mailto:piyushlasane@gmail.com">
@@ -15,11 +12,16 @@
 <a href="mailto:piyushlasane@gmail.com">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
+<a href="mailto:piyushlasane@gmail.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
 
 
 # 🌐 Connect with me:
 
-
+<a href="mailto:piyushlasane@gmail.com">
+  <img align="center" src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="mail" width="40" height="40"/>
+</a>
 <a href="https://linkedin.com/in/piyushlasane" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
@@ -29,9 +31,7 @@
 <a href="https://www.geeksforgeeks.org/user/piyush_lasane" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
-<a href="mailto:piyushlasane@gmail.com">
-  <img align="center" src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="mail" width="40" height="40"/>
-</a>
+
 
 # 📊 GitHub Stats:
 
