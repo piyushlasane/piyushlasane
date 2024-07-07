@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 
-# 💻 Tools & Technologies:
+# 🛠️ Tools & Technologies:
 
 <a href="mailto:piyushlasane@gmail.com">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -22,7 +22,10 @@
   <img src="https://img.icons8.com/?size=256&id=0OQR1FYCuA9f&format=png" alt="VSCode" width="40" height="40"/>
 </a>
 <a href="mailto:piyushlasane@gmail.com">
-  <img src="https://img.icons8.com/?size=256&id=61466&format=png" alt="VSCode" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=256&id=61466&format=png" alt="intellij" width="40" height="40"/>
+</a>
+<a href="mailto:piyushlasane@gmail.com">
+  <img src="https://img.icons8.com/?size=256&id=3tC9EQumUAuq&format=png" alt="GitHub" width="40" height="40"/>
 </a>
 
 # 🌐 Connect with me:
