@@ -1,6 +1,9 @@
 # 💻 Programming Languages:
 
 <a href="mailto:piyushlasane@gmail.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+<a href="mailto:piyushlasane@gmail.com">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
 <a href="mailto:piyushlasane@gmail.com">
@@ -12,9 +15,7 @@
 <a href="mailto:piyushlasane@gmail.com">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
-<a href="mailto:piyushlasane@gmail.com">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
+
 
 # 🌐 Connect with me:
 
