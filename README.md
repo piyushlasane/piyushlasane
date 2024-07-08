@@ -1,5 +1,4 @@
 # 💻 Programming Languages:
-
 <a href="mailto:piyushlasane@gmail.com">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
@@ -14,7 +13,6 @@
 </a>
 
 # 🛠️ Tools & Technologies:
-
 <a href="mailto:piyushlasane@gmail.com">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
@@ -29,7 +27,6 @@
 </a>
 
 # 🌐 Connect with me:
-
 <a href="mailto:piyushlasane@gmail.com">
   <img align="center" src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="mail" width="40" height="40"/>
 </a>
@@ -45,7 +42,6 @@
 
 
 # 📊 GitHub Stats:
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushlasane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushlasane&theme=radical&hide_border=false)
 
