@@ -40,10 +40,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
 
-
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushlasane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushlasane&theme=radical&hide_border=false)
-
 ---
 ![Visitor Count](https://visitcount.itsvg.in/api?id=piyushlasane&icon=3&color=6)
