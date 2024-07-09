@@ -27,18 +27,20 @@
 </a>
 
 # 🌐 Connect with me:
+<p align="center">
 <a href="mailto:piyushlasane@gmail.com">
-  <img align="center" src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="mail" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="mail" width="40" height="40"/>
 </a>
 <a href="https://linkedin.com/in/piyushlasane" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/u/piyush_lasane" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/piyush_lasane" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
+</p>
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushlasane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
