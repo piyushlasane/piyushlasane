@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/?size=256&id=61466&format=png" alt="intellij" width="40" height="40"/>
 </a>
 <a href="mailto:piyushlasane@gmail.com">
-  <img src="https://img.icons8.com/?size=256w&id=nXgKLCSNhAWG&format=png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=256&id=LoL4bFzqmAa0&format=png" alt="GitHub" width="40" height="40"/>
 </a>
 
 # 🌐 Connect with me:
