@@ -28,7 +28,7 @@
 
 # 🌐 Connect with me:
 <a href="mailto:piyushlasane@gmail.com">
-  <img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" alt="Mail" width="30" height="40"/>
+  <img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" alt="Mail" width="40" height="40"/>
 </a>
 <a href="https://linkedin.com/in/piyushlasane" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
