@@ -45,4 +45,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushlasane&theme=radical&hide_border=false)
 ---
 ![Visitor Count](https://visitcount.itsvg.in/api?id=piyushlasane&icon=3&color=6)
-![Resume](https://docs.google.com/document/d/1oDh88UyrQ6mlcip5OtN1-2-Snh-jKzZmkvKvLENIj50/edit#heading=h.u2bxwhkmncyb)
+<a href="(https://drive.google.com/file/d/1GzkfL4A_4ZEU-yHgqrOZsw7pm3qeHDG7/view?usp=drive_link)" target="blank">
+  <img src="https://img.icons8.com/?size=256w&id=23877&format=png" height="30" width="40" />
+</a>
