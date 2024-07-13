@@ -45,4 +45,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushlasane&theme=radical&hide_border=false)
 ---
 ![Visitor Count](https://visitcount.itsvg.in/api?id=piyushlasane&icon=3&color=6)
-![Resume](https://docs.google.com/document/d/1oDh88UyrQ6mlcip5OtN1-2-Snh-jKzZmkvKvLENIj50/edit?usp=drive_link)
+![Resume](https://docs.google.com/document/d/1oDh88UyrQ6mlcip5OtN1-2-Snh-jKzZmkvKvLENIj50/edit#heading=h.u2bxwhkmncyb)
