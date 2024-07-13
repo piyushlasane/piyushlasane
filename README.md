@@ -44,8 +44,7 @@
 </a>
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushlasane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushlasane&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushlasane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 ![Visitor Count](https://visitcount.itsvg.in/api?id=piyushlasane&icon=3&color=6)
 <a href="https://docs.google.com/document/d/1oDh88UyrQ6mlcip5OtN1-2-Snh-jKzZmkvKvLENIj50/export?format=pdf">
