@@ -46,5 +46,5 @@
 ---
 ![Visitor Count](https://visitcount.itsvg.in/api?id=piyushlasane&icon=3&color=6)
 <a href="https://docs.google.com/document/d/1oDh88UyrQ6mlcip5OtN1-2-Snh-jKzZmkvKvLENIj50/export?format=pdf">
-  <img src="https://img.icons8.com/?size=256w&id=IoUNlrSp54u9&format=png" height="30" width="40" />
+  <img src="https://img.icons8.com/?size=256w&id=IoUNlrSp54u9&format=png" height="30" width="30" />
 </a>
