@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/?size=256&id=MR3dZdlA53te&format=png" alt="LinkedIn" width="40" height="40" />
 </a>
 <a href="https://leetcode.com/u/piyush_lasane">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <img src="https://img.icons8.com/?size=256w&id=9L16NypUzu38&format=png" alt="LeetCode" height="30" width="40" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/piyush_lasane">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
