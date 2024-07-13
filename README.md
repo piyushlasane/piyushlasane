@@ -30,13 +30,13 @@
 <a href="mailto:piyushlasane@gmail.com">
   <img src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="Mail" width="40" height="40"/>
 </a>
-<a href="https://linkedin.com/in/piyushlasane" target="blank">
+<a href="https://linkedin.com/in/piyushlasane">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/u/piyush_lasane" target="blank">
+<a href="https://leetcode.com/u/piyush_lasane">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/piyush_lasane" target="blank">
+<a href="https://www.geeksforgeeks.org/user/piyush_lasane">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
 
