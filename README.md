@@ -36,7 +36,7 @@
 <a href="https://api.whatsapp.com/send/?phone=918329641181">
   <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" alt="LinkedIn" width="40" height="40" />
 </a>
-<a href="https://leetcode.com/u/piyush_lasane">
+<a href="https://leetcode.com/piyush_lasane/">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="LeetCode" height="40" width="40" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/piyush_lasane">
