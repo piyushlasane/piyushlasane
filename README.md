@@ -37,10 +37,10 @@
   <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" alt="LinkedIn" width="40" height="40" />
 </a>
 <a href="https://leetcode.com/piyush_lasane/">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="LeetCode" height="40" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="30" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/piyush_lasane">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
 </a>
 
 # 📊 GitHub Stats:
