@@ -48,5 +48,9 @@
 ---
 ![Visitor Count](https://visitcount.itsvg.in/api?id=piyushlasane&icon=3&color=6)
 <a href="https://docs.google.com/document/d/1oDh88UyrQ6mlcip5OtN1-2-Snh-jKzZmkvKvLENIj50/preview?format=pdf">
+  <img src="https://www.downloadclipart.net/medium/46730-resumepng-images.png" height="30" width="70" />
+  <img src="https://img.icons8.com/?size=100&id=pkDbTiJX4qNl&format=png&color=000000" height="30" width="30" />
+</a>
+<a href="https://docs.google.com/document/d/1oDh88UyrQ6mlcip5OtN1-2-Snh-jKzZmkvKvLENIj50/export?format=pdf">
   <img src="https://img.icons8.com/?size=256w&id=IoUNlrSp54u9&format=png" height="30" width="30" />
 </a>
