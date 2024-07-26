@@ -1,30 +1,20 @@
 # 💻 Programming Languages:
-<a href="mailto:piyushlasane@gmail.com">
+<div style="display: flex; gap: 25px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-<a href="mailto:piyushlasane@gmail.com">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-<a href="mailto:piyushlasane@gmail.com">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
-<a href="mailto:piyushlasane@gmail.com">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
+</div>
 
 # 🛠️ Tools & Technologies:
-<a href="mailto:piyushlasane@gmail.com">
+<div style="display: flex; gap: 25px;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="mailto:piyushlasane@gmail.com">
   <img src="https://img.icons8.com/?size=256&id=0OQR1FYCuA9f&format=png" alt="VSCode" width="40" height="40"/>
-</a>
-<a href="mailto:piyushlasane@gmail.com">
-  <img src="https://img.icons8.com/?size=256&id=61466&format=png" alt="intellij" width="40" height="40"/>
-</a>
-<a href="https://github.com/piyushlasane">
-  <img src="https://img.icons8.com/?size=256&id=LoL4bFzqmAa0&format=png" alt="GitHub" width="40" height="40"/>
-</a>
+  <img src="https://img.icons8.com/?size=256&id=61466&format=png" alt="IntelliJ" width="40" height="40"/>
+  <a href="https://github.com/piyushlasane">
+    <img src="https://img.icons8.com/?size=256&id=LoL4bFzqmAa0&format=png" alt="GitHub" width="40" height="40"/>
+  </a>
+</div>
 
 # 🌐 Connect with me:
 <a href="mailto:piyushlasane@gmail.com">
@@ -34,7 +24,7 @@
   <img src="https://img.icons8.com/?size=256&id=MR3dZdlA53te&format=png" alt="LinkedIn" width="40" height="40" />
 </a>
 <a href="https://api.whatsapp.com/send/?phone=918329641181">
-  <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" alt="LinkedIn" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" alt="Whatsapp" width="40" height="40" />
 </a>
 <a href="https://leetcode.com/piyush_lasane/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="30" />
