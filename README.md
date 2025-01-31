@@ -39,7 +39,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushlasane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 <div style="display: flex; justify-content: center; gap: 30px;">
-  <img src="https://visitcount.itsvg.in/api?id=piyushlasane&icon=3&color=6" alt="Visitor Count" height="30"/>
   <a href="https://drive.google.com/file/d/19QzOB1ENxZbds9Dzk622DJ6ryypi5tmB/preview?usp=sharing">
     <img src="https://www.downloadclipart.net/medium/46730-resumepng-images.png" height="30" width="70" />
   </a>
