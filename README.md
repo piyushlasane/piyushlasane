@@ -27,7 +27,7 @@
   <a href="https://api.whatsapp.com/send/?phone=918329641181">
     <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href="https://leetcode.com/piyush_lasane/">
+  <a href="https://leetcode.com/piyushlasane/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/piyush_lasane">
