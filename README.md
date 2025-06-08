@@ -1,9 +1,8 @@
 # 💻 Programming Languages:
-<div style="display: flex; gap: 25px;">
+<div style="display: flex; gap: 30px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/5c5236ea-3806-4bfb-9860-e6b6acb16c5f" alt="kotlin" width="40" height="40"/>
 </div>
 
 # 🛠️ Tools & Technologies:
