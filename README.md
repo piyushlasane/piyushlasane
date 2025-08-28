@@ -1,11 +1,11 @@
-# 💻 Programming Languages:
-<div style="display: flex; gap: 30px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="40"/>
-  <img src="https://github.com/user-attachments/assets/5c5236ea-3806-4bfb-9860-e6b6acb16c5f" alt="kotlin" width="40" height="40"/>
+## 💻 Programming Languages:
+<div style="display: flex; gap: 40px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="30"/>
+  <img src="https://github.com/user-attachments/assets/5c5236ea-3806-4bfb-9860-e6b6acb16c5f" alt="kotlin" width="30" height="30"/>
 </div>
 
-# 🛠️ Tools & Technologies:
+## 🛠️ Tools & Technologies:
 <div style="display: flex; gap: 25px;">
   <img src="https://res.cloudinary.com/dosrhyslq/image/upload/v1756382336/android-studio-icon_bt7zah.png" alt="Android Studio Logo" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=256&id=61466&format=png" alt="IntelliJ" width="40" height="40"/>
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-# 🌐 Connect with me:
+## 🌐 Connect with me:
 <div style="display: flex; gap: 30px;">
   <a href="mailto:piyushlasane@gmail.com">
     <img src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="Mail" width="40" height="40"/>
@@ -38,6 +38,5 @@
   </a>
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushlasane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
