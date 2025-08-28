@@ -33,7 +33,7 @@
 <!--   <a href="https://www.geeksforgeeks.org/user/piyush_lasane">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" gap: 100px;/>
   </a> -->
-  <a href="https://drive.google.com/file/d/1gvuCDhZufQVwbpNPkiAtQu8dbeMz78OI/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1gvuCDhZufQVwbpNPkiAtQu8dbeMz78OI/view?usp=sharing" target="_main">
     <img src="https://res.cloudinary.com/dosrhyslq/image/upload/v1756381859/resume_omdr5e.png" height="50" width="100" gap: 30px; />
   </a>
 </div>
