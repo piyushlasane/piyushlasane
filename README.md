@@ -11,9 +11,7 @@
   <img src="https://img.icons8.com/?size=256&id=61466&format=png" alt="IntelliJ" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=256&id=0OQR1FYCuA9f&format=png" alt="VSCode" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <a href="https://github.com/piyushlasane">
-    <img src="https://img.icons8.com/?size=256&id=LoL4bFzqmAa0&format=png" alt="GitHub" width="40" height="40"/>
-  </a>
+  <img src="https://img.icons8.com/?size=256&id=LoL4bFzqmAa0&format=png" alt="GitHub" width="40" height="40"/>
 </div>
 
 ## 🌐 Connect with me:
