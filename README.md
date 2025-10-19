@@ -16,22 +16,22 @@
 
 ## 🌐 Connect with me:
 <div style="display: flex; gap: 30px;">
-  <a href="mailto:piyushlasane@gmail.com">
+  <a href="mailto:piyushlasane@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="Mail" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/piyushlasane">
+  <a href="https://linkedin.com/in/piyushlasane" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=256&id=MR3dZdlA53te&format=png" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=918329641181">
+  <a href="https://api.whatsapp.com/send/?phone=918329641181" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href="https://leetcode.com/piyushlasane/">
+  <a href="https://leetcode.com/piyushlasane/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="40" />
   </a>
 <!--   <a href="https://www.geeksforgeeks.org/user/piyush_lasane">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" gap: 100px;/>
   </a> -->
-  <a href="https://drive.google.com/file/d/1gvuCDhZufQVwbpNPkiAtQu8dbeMz78OI/view?usp=sharing" target="_main">
+  <a href="https://drive.google.com/file/d/1gvuCDhZufQVwbpNPkiAtQu8dbeMz78OI/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://res.cloudinary.com/dosrhyslq/image/upload/v1756381859/resume_omdr5e.png" height="50" width="100" gap: 30px; />
   </a>
 </div>
